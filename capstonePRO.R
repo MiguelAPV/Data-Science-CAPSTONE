@@ -1,6 +1,6 @@
-# init
-rm(list = ls())
-gc()
+
+####################### this is my code for the coursera CAPSTONE  ###############################
+########### Miguel Andres Porro Vargas  ##############
 
 # libs
 if (!require("ggplot2"))      { install.packages("ggplot2") }
